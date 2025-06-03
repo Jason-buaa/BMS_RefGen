@@ -6,7 +6,7 @@
     },
     {
       "route": "/",
-      "rewrite": "/taskpane.html"Add commentMore actions
+      "rewrite": "/taskpane.html"
     }
   ]
 }
